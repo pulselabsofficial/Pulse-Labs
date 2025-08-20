@@ -1,0 +1,14 @@
+{
+  "name": "discord-embed-bot",
+  "version": "1.0.0",
+  "description": "Discord bot with embeds and button interactions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "yaml": "^2.3.4"
+  }
+}

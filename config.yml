@@ -1,0 +1,4 @@
+bot:
+  token: "MTQwNzc5Nzc2ODIyMjgwMTk5MQ.GbAc0V.CJLflLNbCrBtogsB2pV2AVB_LHsHX03u9lf-GM"
+  status: "invisible"  # Options: online, idle, dnd, invisible
+  activity: "Pulse Labs™"
